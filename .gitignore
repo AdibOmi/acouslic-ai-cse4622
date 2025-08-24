@@ -1,4 +1,5 @@
 preds_test/
 preds_test_postprocessed/
 saved_weights/
+torch310/
 workdir_cls/
